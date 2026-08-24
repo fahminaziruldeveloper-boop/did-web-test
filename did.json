@@ -13,9 +13,9 @@
     }
   ],
   "authentication": [
-    "did:web:raw.githubusercontent.com:YOUR_GH_USERNAME:did-web-test:main#key-1"
+    "did:web:raw.githubusercontent.com:fahminaziruldeveloper-boop:did-web-test:main#key-1"
   ],
   "assertionMethod": [
-    "did:web:raw.githubusercontent.com:YOUR_GH_USERNAME:did-web-test:main#key-1"
+    "did:web:raw.githubusercontent.com:fahminaziruldeveloper-boop:did-web-test:main#key-1"
   ]
 }
