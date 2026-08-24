@@ -8,7 +8,7 @@
     {
       "id": "did:web:raw.githubusercontent.com:fahminaziruldeveloper-boop:did-web-test:main#key-1",
       "type": "Ed25519VerificationKey2020",
-      "controller": "did:web:raw.githubusercontent.com:YOUR_GH_USERNAME:did-web-test:main",
+      "controller": "did:web:raw.githubusercontent.com:fahminaziruldeveloper-boop:did-web-test:main",
       "publicKeyMultibase": "z6MkniTFmZj21D6KTsfSZiF86H8tVfXm1Xj5f3fCYX6tnzEy"
     }
   ],
