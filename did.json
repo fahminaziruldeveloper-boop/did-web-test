@@ -9,7 +9,7 @@
       "id": "did:web:raw.githubusercontent.com:fahminaziruldeveloper-boop:did-web-test:main#key-1",
       "type": "Multikey",
       "controller": "did:web:raw.githubusercontent.com:fahminaziruldeveloper-boop:did-web-test:main",
-      "publicKeyMultibase": "zDnaehxxxPKaLsF6hcFw541zoUwafjxTcEXWdgnwvfDnKJRwF"
+      "publicKeyMultibase": "zDnaeRE7Cr9baJf9r6yhF6arFs6afuuGG4GE5tnQGtt3krkTL"
     }
   ],
   "assertionMethod": [
